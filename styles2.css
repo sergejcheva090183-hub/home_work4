@@ -1,0 +1,44 @@
+body {
+    font-size: 24px;
+}
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.red-sub {
+    color: red;
+}
+
+span.xxsmall {
+    font-size: 10px;
+}
+span.xsmall {
+    font-size: 20px;
+}
+span.small {
+    font-size: 30px;
+}
+span.medium {
+    font-size: 40px;
+}
+span.large {
+    font-size: 50px;
+}
+span.xlarge {
+    font-size: 60px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
